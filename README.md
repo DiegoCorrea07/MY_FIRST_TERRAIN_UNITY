@@ -20,5 +20,5 @@ Este proyecto de Unity incluye un terreno modelado personalizado en el que el ju
 ## C¢mo ejecutar el proyecto 
 1. Clona este repositorio: 
    \`\`\`bash 
-   git clone [https://github.com/tuusuario/MI_TERRENO.git ](https://github.com/DiegoCorrea07/MY_FIRST_TERRAIN_UNITY.git)
+   git clone https://github.com/DiegoCorrea07/MY_FIRST_TERRAIN_UNITY.git 
    \`\`\` 
